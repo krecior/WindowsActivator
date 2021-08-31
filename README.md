@@ -1,2 +1,2 @@
 # WindowsActivator
-Windows Activator
+Leave a star!
